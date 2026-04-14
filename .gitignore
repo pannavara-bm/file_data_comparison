@@ -1,0 +1,5 @@
+*.gsheet
+*.gdoc
+*.gslides
+.config/
+sample_data/
